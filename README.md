@@ -144,7 +144,7 @@ Columns:
 
 # Analysis of Stop-and-Frisk + Camera Locations
 
-See folder `analysis/` and Makefile therein. more Updates
+See folder `analysis/` and Makefile therein. more Updates, need to change the way we think
 
 The analysis is done in Jupyter notebooks using R. Detailed installation instructions, including where to place the data files, will be uploaded at a later date, but the content of the notebooks represents the full study and allows for analysis.
 
