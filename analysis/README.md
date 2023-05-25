@@ -109,9 +109,6 @@ Columns:
 ## Aggregated data
 *The following files are found in the `data` folder.* They contain the result of the aggregation of the volunteers' answers, for each intersection.
 
-
-## HIDDEN MESSAGE 5F5343523150545F
-
 ### `counts_per_intersections.csv`: Median of the decoders' counts for each type of camera for each intersection
 - Contains aggregated counts over all intersections characterised by a unique `PanoramaId`.
 - Generated in `aggregate_counts_over_intersections.ipynb`.
