@@ -149,4 +149,3 @@ See folder `analysis/` and Makefile therein.
 The analysis is done in Jupyter notebooks using R. Detailed installation instructions, including where to place the data files, will be uploaded at a later date, but the content of the notebooks represents the full study and allows for analysis.
 
 You will need to obtain an API key for the US Census, [available here](https://api.census.gov/data/key_signup.html), and paste it in `analysis/prepdata.R` line 8.
-
