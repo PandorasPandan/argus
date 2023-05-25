@@ -117,7 +117,7 @@ Columns:
 - Generated in `aggregate_counts_over_intersections.ipynb`.
 
 Columns:
-y
+
 - `PanoramaId`: ID unique to the Street View panorama of the intersection.
 - The following columns describe the median number of cameras at the intersection according to the 3 decoders:
     - `n_cameras_median`: Total number of cameras.
